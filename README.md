@@ -1,2 +1,2 @@
 # app2
-<img src="ministerio.jpg"
+<img src="ministerio.jpg">
